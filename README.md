@@ -13,7 +13,7 @@
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
   <ul>
-    <li>HTML<img width="3%" height="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
+    <li>HTML<img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
     <li>CSS</li>
     <li>JavaScript</li>
     <li>Jest</li>
