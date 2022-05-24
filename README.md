@@ -4,7 +4,25 @@
 </div>
 
   - Fiz um site para reunir o deploy dos meus projetos que foram concluidos
-     - <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">Link para o Site</a> 
+     - <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">Link para o Site</a>
+  - <a href="https://www.linkedin.com/in/pedrovieira12/">Linkedin</a>
+
+<div>
+  <h3>Tecnologias Desenvolvidas</h3>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Jest</li>
+    <li>ReactJS</li>
+    <li>React Redux</li>
+    <li>Context API</li>
+    <li>RTL</li>
+    <li>Docker</li>
+    <li>Git</li>
+    <li>Vercel</li>
+  </ul>  
+</div>
 <!--
 **pedrindev-ls/pedrindev-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
