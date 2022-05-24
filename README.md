@@ -12,10 +12,10 @@
 
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
-  <ul>
+  <div>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript<img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><p>JavaScript<p></div>
     <li>Jest</li>
     <li>ReactJS</li>
     <li>React Redux</li>
@@ -24,7 +24,7 @@
     <li>Docker</li>
     <li>Git</li>
     <li>Vercel</li>
-  </ul>  
+  </div>  
 </div>
 
 <a href="https://www.linkedin.com/in/pedrovieira12/" target="_blank">
