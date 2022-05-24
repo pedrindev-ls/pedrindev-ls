@@ -4,7 +4,7 @@
 </div>
 
   - Fiz um site para reunir o deploy dos meus projetos que foram concluidos
-     - **[Link para o Site](https://pedrindev-ls.github.io/basic-info/)** 
+     - <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">Link para o Site</a> 
 <!--
 **pedrindev-ls/pedrindev-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
