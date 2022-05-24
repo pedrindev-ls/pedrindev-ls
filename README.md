@@ -1,5 +1,7 @@
-### Olá, Bem Vindo ao meu perfil do GitHub 👋
-##  Sou estudante da **[Trybe](https://www.betrybe.com/)** com previsão para me formar em Novembro de 2022
+<div>
+  <h1 align="center">Olá, Bem Vindo ao meu perfil do GitHub 👋</h1>
+  <h2 align="center">Sou estudante da **[Trybe](https://www.betrybe.com/)** com previsão para me formar em Novembro de 2022</h2>
+</div>
 <!--
 **pedrindev-ls/pedrindev-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
