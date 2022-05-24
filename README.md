@@ -15,7 +15,7 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li display="flex">JavaScript<img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
+    <li>JavaScript<img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></li>
     <li>Jest</li>
     <li>ReactJS</li>
     <li>React Redux</li>
