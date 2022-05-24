@@ -3,9 +3,11 @@
   <h2 align="center">Sou estudante da <a target="_blank" href="https://www.betrybe.com/">Trybe</a> com previsão para me formar em Novembro de 2022</h2>
 </div>
 
-  - Fiz um site para reunir o deploy dos meus projetos que foram concluidos
-     - <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">Link para o Site</a>
-  - <a href="https://www.linkedin.com/in/pedrovieira12/">Linkedin</a>
+Fiz um <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">site</a> para reunir o deploy dos meus projetos que foram concluidos
+
+<a href="https://www.linkedin.com/in/pedrovieira12/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
