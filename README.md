@@ -2,6 +2,9 @@
   <h1 align="center">Olá, Bem Vindo ao meu perfil do GitHub 👋</h1>
   <h2 align="center">Sou estudante da <a target="_blank" href="https://www.betrybe.com/">Trybe</a> com previsão para me formar em Novembro de 2022</h2>
 </div>
+
+  - Fiz um site para reunir o deploy dos meus projetos que foram concluidos
+     - **[Link para o Site](https://pedrindev-ls.github.io/basic-info/)** 
 <!--
 **pedrindev-ls/pedrindev-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
