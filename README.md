@@ -13,7 +13,7 @@
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
   <ul>
-    <li>HTML</li>
+    <li>HTML:html:</li>
     <li>CSS</li>
     <li>JavaScript</li>
     <li>Jest</li>
