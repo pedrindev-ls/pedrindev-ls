@@ -3,7 +3,7 @@
   <h2 align="center">Sou estudante da <a target="_blank" href="https://www.betrybe.com/">Trybe</a> com previsão para me formar em Novembro de 2022</h2>
 </div>
 
-<h4>Fiz um <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">site</a> para reunir o deploy dos meus projetos que foram concluidos</h4>
+<h4>Fiz um <a target="_blank" href="https://pedrindev-ls.github.io/basic-info/">site</a> para reunir o deploy dos meus projetos que foram concluidos, aproveita que você já chegou aqui e vai lá dar uma olhadinha ;)</h4>
 
 <div align="center">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=pedrindev-ls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
