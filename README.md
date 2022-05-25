@@ -12,19 +12,19 @@
 
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
-  <div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><p>HTML<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><p>CSS<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><p>JavaScript<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><p>Jest<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>ReactJS (RTL e Context API)<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><p>React Redux<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>React Context API<p></div>
-    <div><p>RTL<p></div>
-    <div><p>Docker<p></div>
-    <div><p>Git<p></div>
-    <div><p>Vercel<p></div>
-  </div>  
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Jest</li>
+    <li>ReactJS</li>
+    <li>React Redux</li>
+    <li>React Context API</li>
+    <li>RTL</li>
+    <li>Docker</li>
+    <li>Git</li>
+    <li>Vercel</li>
+  </ul>  
 </div>
 
 <a href="https://www.linkedin.com/in/pedrovieira12/" target="_blank">
