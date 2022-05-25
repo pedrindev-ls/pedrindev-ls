@@ -17,7 +17,7 @@
     <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><p>CSS<p></div>
     <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><p>JavaScript<p></div>
     <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><p>Jest<p></div>
-    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>ReactJS<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>ReactJS (RTL e Context API)<p></div>
     <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><p>React Redux<p></div>
     <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>React Context API<p></div>
     <div><p>RTL<p></div>
