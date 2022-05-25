@@ -13,14 +13,14 @@
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
   <div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><p>HTML<p></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><p>CSS<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><p>HTML<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><p>CSS<p></div>
     <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><p>JavaScript<p></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><p>Jest<p></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>ReactJS<p></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><p>React Redux<p></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>React Context API<p></div>
-    <div><img src"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftesting-library.com%2Fdocs%2Freact-testing-library%2Fintro%2F&psig=AOvVaw2sQOh4LRlPeXnM6BOipq_7&ust=1653523771299000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjn3q-u-fcCFQAAAAAdAAAAABAD" /><p>RTL<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><p>Jest<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>ReactJS<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><p>React Redux<p></div>
+    <div><img width="2%" height="2%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><p>React Context API<p></div>
+    <div><p>RTL<p></div>
     <div><p>Docker<p></div>
     <div><p>Git<p></div>
     <div><p>Vercel<p></div>
