@@ -25,6 +25,7 @@
     <li>Docker</li>
     <li>Git</li>
     <li>Vercel</li>
+    <li>mySql</li>
   </ul>  
 </div>
 
