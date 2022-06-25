@@ -25,6 +25,7 @@
     <li>Git</li>
     <li>Vercel</li>
     <li>mySql</li>
+    <li>NodeJS</li>
   </ul>  
 </div>
 
