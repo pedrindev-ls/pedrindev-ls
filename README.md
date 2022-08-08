@@ -26,6 +26,7 @@
     <li>Vercel</li>
     <li>mySql</li>
     <li>NodeJS</li>
+    <li>TypeScript</li>
   </ul>  
 </div>
 
