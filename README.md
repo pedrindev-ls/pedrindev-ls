@@ -27,6 +27,7 @@
     <li>mySql</li>
     <li>NodeJS</li>
     <li>TypeScript</li>
+    <li>Heroku</li>
   </ul>  
 </div>
 
