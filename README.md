@@ -28,7 +28,12 @@
     <li>NodeJS</li>
     <li>TypeScript</li>
     <li>Heroku</li>
-  </ul>  
+  </ul>
+  <h3>Metodologias</h3>
+  <ul>
+    <li>SOLID</li>
+    <li>POO</li>
+  </ul>
 </div>
 
 <a href="https://www.linkedin.com/in/pedrovieira12/" target="_blank">
