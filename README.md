@@ -28,6 +28,7 @@
     <li>NodeJS</li>
     <li>TypeScript</li>
     <li>Heroku</li>
+    <li>MongoDB</li>
   </ul>
   <h3>Metodologias</h3>
   <ul>
