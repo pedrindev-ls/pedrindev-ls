@@ -13,6 +13,7 @@
 <div>
   <h3>Tecnologias Desenvolvidas</h3>
   <ul>
+    <li>Python</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
